@@ -1,0 +1,61 @@
+cod_market_segment,desc_market_segment,cod_banca_final,desc_banca_final,cod_segmento_final,desc_segmento_final,cod_segmento,desc_segmento,,,Maestra Market Segment,
+100,Personas,BPE,Banca Negocio (ex pequeña empresa),B,-,100BPEB,,,,cod_market_segment,desc_market_segment
+100,Personas,BPE,Banca Negocio (ex pequeña empresa),C,-,100BPEC,,,,910,Colaboradores
+100,Personas,SV,-,SS,Sin segmento,100SVSS,,,,180,Consumo
+100,Personas,BPE,Banca Negocio (ex pequeña empresa),SS,Sin segmento,100BPESS,,,,150,Pequeña Empresa
+100,Personas,BPE,Banca Negocio (ex pequeña empresa),A,-,100BPEA,,,,190,Privada
+150,Pequeña Empresa,BPE,Banca Negocio (ex pequeña empresa),S2,Mediana Empresa,150BPES2,,,,199,Recupero personas
+150,Pequeña Empresa,BPE,Banca Negocio (ex pequeña empresa),B,-,150BPEB,,,,100,Personas
+150,Pequeña Empresa,RECUP,Recuperos,SS,Sin segmento,150RECUPSS,,,,330,Corporativa
+150,Pequeña Empresa,BPE,Banca Negocio (ex pequeña empresa),C,-,150BPEC,,,,300,Empresas
+150,Pequeña Empresa,BPE,Banca Negocio (ex pequeña empresa),SS,Sin segmento,150BPESS,,,,301,Empresas Lima
+150,Pequeña Empresa,BPE,Banca Negocio (ex pequeña empresa),A,-,150BPEA,,,,302,Empresas Provincia
+150,Pequeña Empresa,BE,Banca Empresa,S1,Gran Empresa,150BES1,,,,310,Pymes
+190,Privada,SV,-,SS,Sin segmento,190SVSS,,,,399,Recupero negocios
+199,Recupero personas,BPE,Banca Negocio (ex pequeña empresa),C,-,199BPEC,,,,920,Empresas vinculadas
+199,Recupero personas,G0,Gestor Cero,SS,Sin segmento,199G0SS,,,,350,Inmobiliario
+199,Recupero personas,BE,Banca Empresa,SS,Sin segmento,199BESS,,,,410,Bancos
+199,Recupero personas,RECUP,Recuperos,SS,Sin segmento,199RECUPSS,,,,430,Otras instituciones financieras
+199,Recupero personas,BPE,Banca Negocio (ex pequeña empresa),SS,Sin segmento,199BPESS,,,,800,Instituciones financieras del exterior
+199,Recupero personas,BPE,Banca Negocio (ex pequeña empresa),B,-,199BPEB,,,,900,Institucional
+300,Empresas,BEL,Banca Empresa,S1,Gran Empresa,300BELS1,,,,901,Corresponsalia
+300,Empresas,BE,Banca Empresa,S1,Gran Empresa,300BES1,,,,990,Otros segmentos sin gestión
+300,Empresas,BEP,Banca Empresa,S2,Mediana Empresa,300BEPS2,,,,999,Otros
+300,Empresas,BE,Banca Empresa,S2,Mediana Empresa,300BES2,,,,99999,No Asignado
+300,Empresas,BEP,Banca Empresa,S1,Gran Empresa,300BEPS1,,,,,
+300,Empresas,RECUP,Recuperos,SS,Sin segmento,300RECUPSS,,,,Maestra Banca Final,
+300,Empresas,BEL,Banca Empresa,S2,Mediana Empresa,300BELS2,,,,cod_banca_final,desc_banca_final
+300,Empresas,G0,Gestor Cero,SS,Sin segmento,300G0SS,,,,BE,Banca Empresa
+300,Empresas,BE,Banca Empresa,SS,Sin segmento,300BESS,,,,BEL,Banca Empresa
+310,Pymes,RECUP,Recuperos,SS,Sin segmento,310RECUPSS,,,,BEP,Banca Empresa
+310,Pymes,BE,Banca Empresa,S2,Mediana Empresa,310BES2,,,,BPE,Banca Negocio (ex pequeña empresa)
+310,Pymes,BEP,Banca Empresa,S2,Mediana Empresa,310BEPS2,,,,SV,-
+310,Pymes,G0,Gestor Cero,SS,Sin segmento,310G0SS,,,,RECUP,Recuperos
+310,Pymes,BE,Banca Empresa,SS,Sin segmento,310BESS,,,,G0,Gestor Cero
+310,Pymes,BEP,Banca Empresa,S1,Gran Empresa,310BEPS1,,,,BC,Banca Corporativa
+310,Pymes,BE,Banca Empresa,S1,Gran Empresa,310BES1,,,,INMB,Banca Inmobiliaria
+330,Corporativa,BC,Banca Corporativa,SS,Sin segmento,330BCSS,,,,BI,-
+330,Corporativa,G0,Gestor Cero,SS,Sin segmento,330G0SS,,,,,
+350,Inmobiliario,INMB,Banca Inmobiliaria,S1,Gran Empresa,350INMBS1,,,,Maestra Segmento Final,
+350,Inmobiliario,INMB,Banca Inmobiliaria,S2,Mediana Empresa,350INMBS2,,,,cod_segmento_final,desc_segmento_final
+350,Inmobiliario,INMB,Banca Inmobiliaria,SS,Sin segmento,350INMBSS,,,,A,-
+399,Recupero negocios,BE,Banca Empresa,S2,Mediana Empresa,399BES2,,,,B,-
+399,Recupero negocios,BC,Banca Corporativa,SS,Sin segmento,399BCSS,,,,C,-
+399,Recupero negocios,RECUP,Recuperos,SS,Sin segmento,399RECUPSS,,,,S1,Gran Empresa
+399,Recupero negocios,BE,Banca Empresa,S1,Gran Empresa,399BES1,,,,S2,Mediana Empresa
+399,Recupero negocios,G0,Gestor Cero,SS,Sin segmento,399G0SS,,,,SS,Sin segmento
+399,Recupero negocios,BPE,Banca Negocio (ex pequeña empresa),B,-,399BPEB,,,,,
+399,Recupero negocios,BPE,Banca Negocio (ex pequeña empresa),C,-,399BPEC,,,,,
+399,Recupero negocios,SV,-,SS,Sin segmento,399SVSS,,,,,
+399,Recupero negocios,BPE,Banca Negocio (ex pequeña empresa),SS,Sin segmento,399BPESS,,,,,
+399,Recupero negocios,INMB,Banca Inmobiliaria,SS,Sin segmento,399INMBSS,,,,,
+399,Recupero negocios,BPE,Banca Negocio (ex pequeña empresa),A,-,399BPEA,,,,,
+399,Recupero negocios,BE,Banca Empresa,SS,Sin segmento,399BESS,,,,,
+800,Instituciones financieras del exterior,SV,-,SS,Sin segmento,800SVSS,,,,,
+900,Institucional,BI,-,SS,Sin segmento,900BISS,,,,,
+900,Institucional,BI,-,S1,Gran Empresa,900BIS1,,,,,
+900,Institucional,BI,-,S2,Mediana Empresa,900BIS2,,,,,
+901,Corresponsalia,SV,-,SS,Sin segmento,901SVSS,,,,,
+910,Colaboradores,SV,-,SS,Sin segmento,910SVSS,,,,,
+910,Colaboradores,BPE,Banca Negocio (ex pequeña empresa),C,-,910BPEC,,,,,
+990,Otros segmentos sin gestión,SV,-,SS,Sin segmento,990SVSS,,,,,
